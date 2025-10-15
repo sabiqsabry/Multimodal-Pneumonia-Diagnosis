@@ -503,9 +503,12 @@ If you use this work in your research, please cite:
   year={2025},
   school={Asia Pacific University},
   type={Masters Final Year Project},
-  url={https://github.com/sabiqsabry/Multimodal-Pneumonia-Diagnosis}
+  url={https://github.com/sabiqsabry/Multimodal-Pneumonia-Diagnosis},
+  thesis={https://drive.google.com/file/d/1AANSjo4lG0AVwe24bU_eRN8yIabOopQI/view?usp=sharing}
 }
 ```
+
+**Full Thesis Document**: [View Complete Thesis](https://drive.google.com/file/d/1AANSjo4lG0AVwe24bU_eRN8yIabOopQI/view?usp=sharing)
 
 ### Academic Collaboration
 
@@ -603,11 +606,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sabiq Sabry**  
 Masters Student, Asia Pacific University  
-Email: [Your Email]  
+Email: [sabiqsabry48@gmail.com](mailto:sabiqsabry48@gmail.com)  
 GitHub: [@sabiqsabry](https://github.com/sabiqsabry)  
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: [@sabiqsabry](https://www.linkedin.com/in/sabiqsabry/)
 
-**Project Repository**: [https://github.com/sabiqsabry/Multimodal-Pneumonia-Diagnosis](https://github.com/sabiqsabry/Multimodal-Pneumonia-Diagnosis)
+**Project Repository**: [https://github.com/sabiqsabry/Multimodal-Pneumonia-Diagnosis](https://github.com/sabiqsabry/Multimodal-Pneumonia-Diagnosis)  
+**Thesis Document**: [View Complete Thesis](https://drive.google.com/file/d/1AANSjo4lG0AVwe24bU_eRN8yIabOopQI/view?usp=sharing)
 
 ---
 
