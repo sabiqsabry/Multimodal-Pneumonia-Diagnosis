@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+.env
+.venv
+ENV/
+env/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+.notebook_cache/
+
+# PyTorch / training artifacts
+outputs/logs/
+outputs/checkpoints/*.pt
+outputs/checkpoints/*.pth
+
+# Data files (raw/processed)
+data/raw/
+data/processed/cache/
+*.npy
+*.pt
+*.joblib
+*.csv
+*.json
+!data/processed/label_map.json
+!data/processed/real_emr/feature_info.json
+!outputs/figures/**
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+
+# Images generated during exploration
+*.png
+!sample_xray.png

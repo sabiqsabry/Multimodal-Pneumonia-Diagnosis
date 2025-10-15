@@ -1,0 +1,37 @@
+{
+  "feature_columns": [
+    "age",
+    "oxygen_saturation",
+    "wbc_count",
+    "temperature",
+    "gender",
+    "cough",
+    "fever",
+    "shortness_of_breath",
+    "chest_pain",
+    "fatigue",
+    "confusion",
+    "crackles",
+    "sputum_color"
+  ],
+  "n_features": 13,
+  "feature_types": {
+    "continuous": [
+      "age",
+      "oxygen_saturation",
+      "wbc_count",
+      "temperature"
+    ],
+    "categorical": [
+      "gender",
+      "cough",
+      "fever",
+      "shortness_of_breath",
+      "chest_pain",
+      "fatigue",
+      "confusion",
+      "crackles",
+      "sputum_color"
+    ]
+  }
+}

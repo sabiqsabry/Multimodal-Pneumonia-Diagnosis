@@ -1,0 +1,27 @@
+{
+  "Normal": {
+    "precision": 0.8536585365853658,
+    "recall": 0.8536585365853658,
+    "f1-score": 0.8536585365853658,
+    "support": 82.0
+  },
+  "Pneumonia": {
+    "precision": 0.3333333333333333,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.3333333333333333,
+    "support": 18.0
+  },
+  "accuracy": 0.76,
+  "macro avg": {
+    "precision": 0.5934959349593496,
+    "recall": 0.5934959349593496,
+    "f1-score": 0.5934959349593496,
+    "support": 100.0
+  },
+  "weighted avg": {
+    "precision": 0.76,
+    "recall": 0.76,
+    "f1-score": 0.76,
+    "support": 100.0
+  }
+}

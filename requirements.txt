@@ -1,0 +1,13 @@
+pandas>=1.5.0
+numpy>=1.21.0
+pathlib
+torch
+torchvision
+scikit-learn
+pillow
+tqdm
+joblib
+matplotlib
+seaborn
+opencv-python
+shap

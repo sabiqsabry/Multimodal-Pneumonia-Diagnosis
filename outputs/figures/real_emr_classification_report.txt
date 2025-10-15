@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+      Normal       0.64      0.83      0.72        46
+   Pneumonia       0.83      0.66      0.73        61
+
+    accuracy                           0.73       107
+   macro avg       0.74      0.74      0.73       107
+weighted avg       0.75      0.73      0.73       107
