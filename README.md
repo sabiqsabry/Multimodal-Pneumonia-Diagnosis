@@ -1,5 +1,9 @@
 # Multimodal Pneumonia Diagnosis (CXR + EMR)
 
+[![Python](https://img.shields.io/badge/Python-3.13-blue)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Made for FYP](https://img.shields.io/badge/Masters-FYP-orange)](#) [![Repo](https://img.shields.io/badge/GitHub-Repo-black)](https://github.com/sabiqsabry/Multimodal-Pneumonia-Diagnosis)
+
+
+
 A research-grade, end-to-end pipeline to detect pneumonia from chest X-rays (CXR) and structured electronic medical records (EMR) using multimodal deep learning. Built as part of my Masters Final Year Project (FYP).
 
 ## Key Features
