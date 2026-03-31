@@ -247,7 +247,7 @@ python scripts/train_real_emr.py
 python scripts/evaluate.py
 
 # Evaluate specific model
-python scripts/evaluate_cxr_real_emr.py --model_path outputs/checkpoints/best_model.pt
+python scripts/evaluate_cxr_real_emr.py --model_path outputs/checkpoints/cxr_real_emr_fusion_best.pt
 ```
 
 #### **Performance Analysis**
@@ -299,7 +299,8 @@ Multimodal-Pneumonia-Diagnosis/
 │   │   ├── real_emr/          # Processed EMR features
 │   │   ├── *.npy              # Feature arrays
 │   │   └── *.csv              # Data splits
-│   └── synthetic_emr/         # Synthetic EMR examples
+│   ├── synthetic_emr/         # Synthetic EMR examples
+│   └── test_images/           # Sample X-ray images for testing
 ├── 🎯 outputs/
 │   ├── checkpoints/           # Model weights (git-ignored)
 │   ├── figures/               # Plots and visualizations
@@ -317,12 +318,6 @@ Multimodal-Pneumonia-Diagnosis/
 │   ├── explainability.py     # Explainability methods
 │   ├── config.py             # Configuration
 │   └── utils_io.py           # I/O utilities
-├── 📚 Documentation/
-│   ├── README.md             # This file
-│   ├── EVALUATION_RESULTS.md # Detailed results
-│   ├── EXPLAINABILITY_README.md
-│   ├── PREDICTION_GUIDE.md
-│   └── INTERACTIVE_PREDICTION_GUIDE.md
 └── 📋 Configuration
     ├── requirements.txt       # Dependencies
     ├── LICENSE               # MIT License
@@ -560,7 +555,7 @@ We welcome contributions from the research community:
 ### Support Channels
 
 - **GitHub Issues**: Technical questions and bug reports
-- **Email**: [Your academic email] for research collaboration
+- **Email**: [sabiqsabry48@gmail.com](mailto:sabiqsabry48@gmail.com) for research collaboration
 - **Discussions**: GitHub Discussions for general questions
 
 ---
@@ -617,6 +612,6 @@ LinkedIn: [@sabiqsabry](https://www.linkedin.com/in/sabiqsabry/)
 
 *Built with ❤️ for advancing healthcare through AI. Part of Masters Final Year Project (FYP) 2025.*
 
-**Last Updated**: January 2025  
+**Last Updated**: March 2026  
 **Version**: 1.0.0  
-**Status**: Research Complete, Production Ready
+**Status**: Research Complete
